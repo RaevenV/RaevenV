@@ -9,28 +9,27 @@ I am currently an Undergraduate student at Binus University majoring in Computer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaevenV&layout=compact&theme=dark" alt="Top Langs" height="170" />
 </div>
 
+## Connect with me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/raeven-villarel-81093421a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="filter: invert(100%);" /></a>
+<a href="https://www.instagram.com/raevenvw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" style="filter: invert(100%);" /></a>
+</p>
+
 ## My Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" alt="React" height="30" width="40" color="white" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg" alt="TypeScript" height="30" width="40" color="white" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg" alt="Tailwind CSS" height="30" width="40" color="white" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/php.svg" alt="PHP" height="30" width="40" color="white" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/laravel.svg" alt="Laravel" height="30" width="40" color="white" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg" alt="AWS" height="30" width="40" color="white" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" alt="React" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg" alt="TypeScript" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg" alt="Tailwind CSS" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/php.svg" alt="PHP" height="30" width="40" style="filter: invert(100%);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/laravel.svg" alt="Laravel" height="30" width="40" style="filter: invert(100%);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg" alt="AWS" height="30" width="40" style="filter: invert(100%);" />
 </p>
 
 ## Side Studies
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/swift.svg" alt="Swift" height="30" width="40" color="white" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/swift.svg" alt="SwiftUI" height="30" width="40" color="white" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/swift.svg" alt="Swift" height="30" width="40" style="filter: invert(100%);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/swift.svg" alt="SwiftUI" height="30" width="40" style="filter: invert(100%);" />
 </p>
-
-## Connect with me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/raeven-villarel-81093421a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" color="white" /></a>
-<a href="https://www.instagram.com/raevenvw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" color="white" /></a>
-</p>
-
