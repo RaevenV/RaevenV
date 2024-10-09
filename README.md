@@ -12,24 +12,25 @@ I am currently an Undergraduate student at Binus University majoring in Computer
 ## My Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" alt="React" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg" alt="TypeScript" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg" alt="Tailwind CSS" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/php.svg" alt="PHP" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/laravel.svg" alt="Laravel" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg" alt="AWS" height="30" width="40" />
 </p>
 
 ## Side Studies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/swift.svg" alt="Swift" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/swift.svg" alt="SwiftUI" height="30" width="40" />
 </p>
 
 ## Connect with me:
 
 <p align="left">
-<a href="[your link](https://www.linkedin.com/in/raeven-villarel-81093421a/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="[your link](https://www.instagram.com/raevenvw)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raeven-villarel-81093421a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/raevenvw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
+
