@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Raeven Villarel
+
+I am currently an Undergraduate student at Binus University majoring in Computer Science. This repository is a simple preview of my journey ahead chasing my passion and curiosity about the tech world!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaevenV)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RaevenV/RaevenV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
