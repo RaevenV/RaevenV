@@ -4,11 +4,11 @@ I am currently an Undergraduate student at Binus University majoring in Computer
 
 ## GitHub Stats
 
-[![Raeven's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaevenV)](https://github.com/anuraghazra/github-readme-stats)
+[![Raeven's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaevenV)](https://github.com/anuraghazra/github-readme-stats&bg_color=00000000)
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaevenV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaevenV&layout=compact)](https://github.com/anuraghazra/github-readme-stats&bg_color=00000000)
 
 ## Connect with me:
 
