@@ -12,7 +12,7 @@ I am currently an Undergraduate student at Binus University majoring in Computer
 ## GitHub Stats and Most Used Languages
 
 <div style="display: flex; justify-content: space-between;">
-  ![raevenv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raevenv&theme=vue-dark&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raevenv&theme=vue-dark&hide_border=true" alt="Top Langs" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaevenV&layout=compact&theme=dark" alt="Top Langs" height="170" />
 </div>
 
